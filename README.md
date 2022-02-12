@@ -1,0 +1,1 @@
+# Scrap novels from ReadNovelFull and transform into epub format
